@@ -26,14 +26,14 @@ Es un sistema de Integración continua, nos permite crear,probar e implementar c
 ***Ventajas***
 Las ventajas de usar travis son las siguientes:
  - **Gratuito** para Proyectos Open Source y de pago para proyectos privados.
- -  Integración rápida con GitHub.
+ -  **Integración rápida** con GitHub.
 
 ![image](https://user-images.githubusercontent.com/73592097/152353373-40d925e8-b3c3-46c6-be1f-0946334018f2.png)
 
- -  Testea y construye aplicaciones que corran en Linux.
- -  No tiene costos de mantenimiento.
+ -  **Testea y construye** aplicaciones que corran en Linux.
+ -  **No tiene costos** de mantenimiento.
  -  Intuitiva.
- -  Verifica la calidad del código.
+ -  **Verifica la calidad del código**.
 
 ***Funciones de Travis CI***
 - Tablero de mandos
