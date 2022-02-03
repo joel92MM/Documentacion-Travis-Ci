@@ -4,12 +4,15 @@
 <hr/>
 
 # Índice #
-<hr/>
 
 ## - ¿Qué es Travis? ##
 ## - ¿Cómo usar Travis? ##
 ## - Ventajas ##
 ## - Funciones de Travis CI ##
+## - Requisitos Previos ##
+## - Travis usando: ##
+### <img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/> ###
+### <img src="https://user-images.githubusercontent.com/73592097/152378706-d8134965-83ee-479f-ad1b-983cee8b2f69.png" width="100px" height="30px"/> ###
 ## - Requisitos Previos ##
 <hr/>
 
@@ -30,6 +33,7 @@ Las ventajas de usar travis son las siguientes:
  -  Testea y construye aplicaciones que corran en Linux.
  -  No tiene costos de mantenimiento.
  -  Intuitiva.
+ -  Verifica la calidad del código.
 
 ***Funciones de Travis CI***
 - Tablero de mandos
@@ -41,3 +45,13 @@ Las ventajas de usar travis son las siguientes:
 - Cuenta en Travis-CI
 - Docker configurado (Opcional)
 
+<hr/>
+
+***Travis usando:***
+
+
+****<img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/>****
+
+
+
+****<img src="https://user-images.githubusercontent.com/73592097/152378706-d8134965-83ee-479f-ad1b-983cee8b2f69.png" width="100px" height="30px"/>****
