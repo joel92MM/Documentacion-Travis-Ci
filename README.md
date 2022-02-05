@@ -22,6 +22,7 @@
 Es un sistema de Integración continua, nos permite crear,probar e implementar código de forma rápida y sencilla. Fundado en 2011 por la comunidad de Travis CI,Idera.
 
 ***¿Cómo usar Travis?***
+- Primero nos crearemos una cuenta en [travis][]
 
 ***Ventajas***
 Las ventajas de usar travis son las siguientes:
