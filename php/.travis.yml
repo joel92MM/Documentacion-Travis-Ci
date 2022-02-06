@@ -1,5 +1,0 @@
-language: php
-before_script: echo 'date.timezone = "Asia/Tokyo"' >> ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/travis.ini
-script:
-  - php -i | grep timezone
-  - php -i | grep ini
