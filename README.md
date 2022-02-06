@@ -94,12 +94,16 @@ Entre otras secuencias de configuración que se encuentran en el siguiente [enla
 Configuración de ejemplo
 
 ![image](https://user-images.githubusercontent.com/73592097/152694374-070ebf95-9299-4942-b33d-6ca307352106.png)
+
 Fichero .travis.yml
+
 ![image](https://user-images.githubusercontent.com/73592097/152694406-82376921-6f33-49c7-9ebe-332a4785c23a.png)
+
 Script python 
+
 ![image](https://user-images.githubusercontent.com/73592097/152694422-055b0f6f-04d4-44bd-a21c-eb8b8e18c11c.png)
 
-
+Ahora que tenemos nuestro repositorio listo para usar con Travis CI, vamos a sincronizarlo, para desplegar el pequeño script
 <hr/>
 
 
@@ -110,10 +114,14 @@ Una vez iniciado travis, los primero que tenemos que hacer es sincronizar nuestr
 Vamos a activar nuestro repositorio para que este supervisado con travis
 ![6](https://user-images.githubusercontent.com/73592097/152693268-1f3545c5-88f8-4734-997b-919bcb309e8e.PNG)
 
-Nos apareceran todos los repositorios de nuestro GitHub, seleccionamos el repositorio para desplegar la aplicación adecuado
+Nos apareceran todos los repositorios de nuestro GitHub, seleccionamos el repositorio para desplegar la aplicación adecuada.
 
 ![7](https://user-images.githubusercontent.com/73592097/152693315-f288ed80-f8cc-40ff-8d14-14d3939e51c7.PNG)
 
+Una vez, seleccionado el repositorio vemos en el tablero de Travis CI, los repositorios activos
+
+
+![image](https://user-images.githubusercontent.com/73592097/152694879-faf7f5d8-a72c-46fb-b08f-1b28638bc19c.png)
 
 
 
