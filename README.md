@@ -48,11 +48,12 @@ Las ventajas de usar travis son las siguientes:
  -  **Verifica la calidad del código**.
 
 ***Funciones de Travis CI***
+
 - Tablero de mandos
 - Depuración de código
 - Gestión de pruebas
 
-***Requisitos Previos***
+***Requisitos Previos<img src="https://user-images.githubusercontent.com/73592097/152683389-1050ea2e-94fd-490b-a62f-ff1b3bd328e2.png" width="100px" height="30px"/>***
 - Repositorio GitHub, con permisos de propietario.
 - Cuenta en Travis-CI
 - Docker configurado (Opcional)
