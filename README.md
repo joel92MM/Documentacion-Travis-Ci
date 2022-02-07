@@ -5,22 +5,31 @@
 
 # Índice #
 
-## - ¿Qué es Travis? ##
-## - ¿Cómo usar Travis? ##
-## - Ventajas ##
-## - Funciones de Travis CI ##
-## - Requisitos Previos ##
-## - Travis usando: ##
+## 1. ¿Qué es Travis CI? ##
+## 2. Requisitos Previos ##
+## 3. ¿Cómo usar Travis ##
+## 4. Ventajas ##
+## 5. Funciones de Travis CI ##
+## 6. Travis usando: ##
 ### <img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/> ###
-## - Requisitos Previos ##
+
+
+***
+
+
+### 1. ¿Qué es Travis CI? <img src="https://user-images.githubusercontent.com/73592097/152708940-3d61801f-c70d-4b38-8ea3-0a853d0a537c.png"/>  ###
+Es un sistema de Integración continua, nos permite crear,probar e implementar código de forma rápida y sencilla. Fundado en 2011 por la comunidad de Travis CI,Idera. Integrado con GitHub 
+<hr/>
+
+### 2. Requisitos Previos <img src="https://user-images.githubusercontent.com/73592097/152683389-1050ea2e-94fd-490b-a62f-ff1b3bd328e2.png" width="50px" height="50px"/> ###  
+- Repositorio GitHub, con permisos de propietario.
+- Cuenta en Travis-CI
+- Docker configurado (Opcional)
+
 <hr/>
 
 
-***¿Qué es Travis?***
-
-Es un sistema de Integración continua, nos permite crear,probar e implementar código de forma rápida y sencilla. Fundado en 2011 por la comunidad de Travis CI,Idera. Integrado con GitHub 
-
-***¿Cómo usar Travis?***
+### 3. ¿Cómo usar Travis? <img src="https://user-images.githubusercontent.com/73592097/152709285-2a14073c-bc5d-4d86-909d-237bfa9561e6.png"/> ###
 - Primero nos crearemos una cuenta en [travis](https://www.travis-ci.com/), podremos registrarnos de tres maneras
 
   * Gmail
@@ -41,10 +50,10 @@ En el siguiente cuadro aparecera la ventana para autorizar y darle a travis perm
 Finalmente ya somos usuarios de Travis CI
 
 <br/>
-<br/>
+<hr/>
 
 
-***Ventajas***
+### 4. Ventajas <img src="https://user-images.githubusercontent.com/73592097/152709215-66e882de-da1e-4fd9-81b3-956fbc224e6c.png"/> ### 
 Las ventajas de usar travis son las siguientes:
  - **Gratuito** para Proyectos Open Source y de pago para proyectos privados.
  -  **Integración rápida** con GitHub.
@@ -56,7 +65,10 @@ Las ventajas de usar travis son las siguientes:
  -  Intuitiva.
  -  **Verifica la calidad del código**.
 
-***Funciones de Travis CI***
+<hr/>
+
+
+### 5. Funciones de Travis CI <img src="https://user-images.githubusercontent.com/73592097/152709304-415b84f4-640f-4631-b20b-359dd5d03159.png"/> ###
 
 - Tablero de mandos
 - Depuración de código
@@ -68,17 +80,12 @@ Las ventajas de usar travis son las siguientes:
   -  PHP
   -  Ruby...
 
-***Requisitos Previos <img src="https://user-images.githubusercontent.com/73592097/152683389-1050ea2e-94fd-490b-a62f-ff1b3bd328e2.png" width="50px" height="50px"/>***
-- Repositorio GitHub, con permisos de propietario.
-- Cuenta en Travis-CI
-- Docker configurado (Opcional)
-
 <hr/>
 
-***Travis usando:***
+### 6. Travis usando <img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/> : ###
 
 
-****<img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/>****
+
 
 Nos crearemos el repositorio de prueba para desplegar en Travis, la carpeta de configuración de travis se llama .**travis.yml**, que se coloca en el directorio raiz
 
