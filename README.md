@@ -38,14 +38,15 @@ Es un sistema de Integración continua, nos permite crear,probar e implementar c
 
   <br/>
 En la página oficial de travis, vamos a registrarnos en el botón(llamado  **start today**) esquina superior derecha. 
- ![1](https://user-images.githubusercontent.com/73592097/152692062-6c763441-3f10-401b-85c4-9b7fdcddc5fa.PNG)
-En esta página nos encontramos con distintas opciones de registro que nos permiten subir proyectos en un momento,en mi caso elegí GitHub.
+<img src="https://user-images.githubusercontent.com/73592097/152692062-6c763441-3f10-401b-85c4-9b7fdcddc5fa.PNG" width="800px"/>
 
-![2](https://user-images.githubusercontent.com/73592097/152692485-a8a780db-cf08-4ba0-89f2-5d5df4e8c186.PNG)
+En esta página nos encontramos con distintas opciones de registro que nos permiten subir proyectos en un momento,en mi caso elegí GitHub.
+<img src="https://user-images.githubusercontent.com/73592097/152692485-a8a780db-cf08-4ba0-89f2-5d5df4e8c186.PNG" width="800px"/>
+
 
 En el siguiente cuadro aparecera la ventana para autorizar y darle a travis permisos sobre los repositorios de Github
+<img src="https://user-images.githubusercontent.com/73592097/152692585-c7bea93b-ef7a-49db-8bab-07b28718d065.PNG" width="800px"/>
 
-![3](https://user-images.githubusercontent.com/73592097/152692585-c7bea93b-ef7a-49db-8bab-07b28718d065.PNG)
 
 Finalmente ya somos usuarios de Travis CI
 
@@ -100,35 +101,38 @@ Entre otras secuencias de configuración que se encuentran en el siguiente [enla
 
 Configuración de ejemplo
 
-![image](https://user-images.githubusercontent.com/73592097/152694374-070ebf95-9299-4942-b33d-6ca307352106.png)
+<img src="https://user-images.githubusercontent.com/73592097/152694374-070ebf95-9299-4942-b33d-6ca307352106.png" width="800px"/>
+
 
 Fichero .travis.yml
 
-![image](https://user-images.githubusercontent.com/73592097/152694406-82376921-6f33-49c7-9ebe-332a4785c23a.png)
+<img src="https://user-images.githubusercontent.com/73592097/152694406-82376921-6f33-49c7-9ebe-332a4785c23a.png" width="800px"/><img src="" width="800px"/>
+
 
 Script python 
 
-![image](https://user-images.githubusercontent.com/73592097/152694422-055b0f6f-04d4-44bd-a21c-eb8b8e18c11c.png)
+<img src="https://user-images.githubusercontent.com/73592097/152694422-055b0f6f-04d4-44bd-a21c-eb8b8e18c11c.png" width="800px"/>
+
 
 Ahora que tenemos nuestro repositorio listo para usar con Travis CI, vamos a sincronizarlo, para desplegar el pequeño script
 <hr/>
 
 
 Una vez iniciado travis, los primero que tenemos que hacer es sincronizar nuestro repositorio para ello, vamos a nuestro perfil> configuración
+<img src="https://user-images.githubusercontent.com/73592097/152693144-a6eda9ac-8b6f-4c9e-8d6a-e560a264bed7.PNG" width="800px"/>
 
-![5](https://user-images.githubusercontent.com/73592097/152693144-a6eda9ac-8b6f-4c9e-8d6a-e560a264bed7.PNG)
 
 Vamos a activar nuestro repositorio para que este supervisado con travis
-![6](https://user-images.githubusercontent.com/73592097/152693268-1f3545c5-88f8-4734-997b-919bcb309e8e.PNG)
 
+<img src="https://user-images.githubusercontent.com/73592097/152693268-1f3545c5-88f8-4734-997b-919bcb309e8e.PNG" width="800px"/>
 Nos apareceran todos los repositorios de nuestro GitHub, seleccionamos el repositorio para desplegar la aplicación adecuada.
 
-![7](https://user-images.githubusercontent.com/73592097/152693315-f288ed80-f8cc-40ff-8d14-14d3939e51c7.PNG)
 
+<img src="https://user-images.githubusercontent.com/73592097/152693315-f288ed80-f8cc-40ff-8d14-14d3939e51c7.PNG" width="800px"/>
 Una vez, seleccionado el repositorio vemos en el tablero de Travis CI, los repositorios activos
 
+<img src="https://user-images.githubusercontent.com/73592097/152694879-faf7f5d8-a72c-46fb-b08f-1b28638bc19c.png" width="800px"/>
 
-![image](https://user-images.githubusercontent.com/73592097/152694879-faf7f5d8-a72c-46fb-b08f-1b28638bc19c.png)
 
 
 
