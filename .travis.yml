@@ -9,4 +9,5 @@ python:
   - "2.7"
 script:
   - python hello.py
+  - python lista.py
   - python suma.py
