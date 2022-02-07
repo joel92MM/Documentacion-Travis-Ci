@@ -1,4 +1,10 @@
 language: python
+notifications:  
+  email:  
+    recipients:  
+    - joel_tf_92@hotmail.com 
+    on_success: always  
+    on_failure: always
 python:
   - "2.7"
 script:
