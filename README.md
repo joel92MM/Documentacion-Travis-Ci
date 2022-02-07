@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73592097/152687804-e294d7e9-9e97-4c92-b07d-c681542591d0.png" height="400px"></p>
 
 
-<hr/>
+***
 
 # Índice #
 
@@ -10,8 +10,9 @@
 ## 3. ¿Cómo usar Travis ##
 ## 4. Ventajas ##
 ## 5. Funciones de Travis CI ##
-## 6. Travis usando: ##
-### <img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/> ###
+## 6. Travis usando <img src="https://user-images.githubusercontent.com/73592097/152375522-7d9ee0ad-57af-453e-ba14-9821bf6619c9.png" width="100px" height="30px"/> ##
+## 7. Compilación de código ##
+
 
 
 ***
@@ -65,6 +66,7 @@ Las ventajas de usar travis son las siguientes:
  -  **No tiene costos** de mantenimiento.
  -  Intuitiva.
  -  **Verifica la calidad del código**.
+ -  **Compilación del código instántanea al subir un repositorio a GitHub.**
 
 <hr/>
 
@@ -133,11 +135,50 @@ Una vez, seleccionado el repositorio vemos en el tablero de Travis CI, los repos
 
 <img src="https://user-images.githubusercontent.com/73592097/152694879-faf7f5d8-a72c-46fb-b08f-1b28638bc19c.png" width="800px"/>
 
+***
+
+### 7. Compilación de código <img src="https://user-images.githubusercontent.com/73592097/152785946-02d943af-562a-420f-8c11-14993d9435f5.png"/> ###
+
+Desde el tablero de repositorios activos, podemos destacar los más importantes, ahora vamos a compilar un pequeño script de ejemplo.
+
+Seleccionamos un repositorio que contiene el fichero **.travis.yml** en la raiz
+
+![image](https://user-images.githubusercontent.com/73592097/152787036-8a246326-31d7-472a-9272-d2c7c6af3194.png)
+
+Veremos los repositorios activos y en la segunda pestaña los que se ejecutan 
+
+![image](https://user-images.githubusercontent.com/73592097/152787771-365b1b81-a350-48f5-adf8-5b4662ddc0db.png)
 
 
+Una vez seleccionada vemos  la información del repositorio actual. 
+
+![image](https://user-images.githubusercontent.com/73592097/152787721-724b3f5b-e5dc-43f1-91a0-f8803f4e35b5.png)
 
 
+En la siguiente pestaña las ramas de GitHub, 
 
+![image](https://user-images.githubusercontent.com/73592097/152788511-fef143ce-9851-402d-adca-19f35238d3bf.png)
+
+En la siguiente el historal de construcción
+
+![image](https://user-images.githubusercontent.com/73592097/152788625-ce41e255-4726-4ab4-aedf-a8e68ad69e56.png)
+
+Procederemos a compilar nuestro primer script de ejemplo, vemos que se esta compilando nos muestra el recuadro en amarillo
+
+![image](https://user-images.githubusercontent.com/73592097/152788038-9d179c56-4d6c-456c-a87b-faace65d6f4b.png)
+
+Vemos en tiempo real, la salida de consola, como podemos observar nuestro pequeño script se a ejecutado correctamente mostrando el mensaje por pantalla
+
+![image](https://user-images.githubusercontent.com/73592097/152788111-81c96549-0fff-4fdf-878e-c6db67787924.png)
+
+
+***
+
+> Autor: **Jesús Joel Meneses Meneses**
+
+> Curso: **2º DAW-DPL**
+
+> Título: **Compilación en TRAVIS CI**
 
 
 
