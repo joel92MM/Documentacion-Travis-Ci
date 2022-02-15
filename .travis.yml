@@ -11,3 +11,4 @@ script:
   - python hello.py
   - python lista.py
   - python suma.py
+  - python calculadora.py
