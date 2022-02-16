@@ -12,4 +12,4 @@ script:
   - python lista.py
   - python suma.py
   - python tablaMultiplicar.py
-  - python calculadora.py
+  
