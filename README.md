@@ -108,7 +108,7 @@ Configuración de ejemplo
 
 Fichero .travis.yml
 
-<img src="https://user-images.githubusercontent.com/73592097/152694406-82376921-6f33-49c7-9ebe-332a4785c23a.png" width="800px"/><img src="" width="800px"/>
+<img src="https://user-images.githubusercontent.com/73592097/152694406-82376921-6f33-49c7-9ebe-332a4785c23a.png" width="800px"/>
 
 
 Script python 
