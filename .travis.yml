@@ -11,5 +11,5 @@ script:
   - python hello.py
   - python lista.py
   - python suma.py
-  - python tablaMultiplicar.py
+  #- python tablaMultiplicar.py
   
